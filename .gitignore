@@ -1,0 +1,20 @@
+# Segreti
+.env
+.env.*
+*.key
+
+# Esportazioni locali (lead, report)
+exports/
+*.csv
+*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
