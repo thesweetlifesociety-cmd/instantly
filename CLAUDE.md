@@ -10,6 +10,7 @@ Questo progetto serve a gestire le campagne cold email di Instantly da Claude, t
 - Se `INSTANTLY_API_KEY_FLUFFY` non è disponibile, dillo all'utente invece di ripiegare su un'altra chiave.
 - Non creare, modificare, avviare, mettere in pausa o inviare campagne (né aggiungere/rimuovere lead) senza una richiesta esplicita dell'utente.
 - Non scrivere mai chiavi API in file, commit, log o memoria. Il repository è pubblico.
+- Ogni volta che i file del progetto cambiano, fai commit e push su GitHub (`thesweetlifesociety-cmd/instantly`), così il repository resta allineato.
 - Rispondi in italiano.
 
 ## Note tecniche
